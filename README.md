@@ -11,6 +11,12 @@
   <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
 </div>
 
+<br><br>
+
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/Larissapiress/Larissapiress/output/github-contribution-grid-snake.svg)
+
   <br><br>
  
 <div>
